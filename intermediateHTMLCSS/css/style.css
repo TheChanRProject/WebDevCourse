@@ -1,0 +1,16 @@
+.avatar {
+  vertical-align: middle;
+  height: 300px;
+  width: 300px;
+  border-radius: 50%;
+}
+
+img {
+  filter: sepia(100%);
+}
+body {
+  text-align: center;
+  padding-top: 120px;
+  background: linear-gradient(60deg, green, blue, green, blue, green);
+  background-size: cover;
+}
