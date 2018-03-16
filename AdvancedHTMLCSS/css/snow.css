@@ -1,0 +1,15 @@
+{margin : 0; padding : 0;}
+
+body :default {
+  filter: grayscale(100%);
+}
+
+body {
+  background-image : url(../mountain.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+canvas {
+  display : block;
+}
